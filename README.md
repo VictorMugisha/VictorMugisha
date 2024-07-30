@@ -1,7 +1,5 @@
-### Hi there 👋, I'm Victor Mugisha
-#### Junior Frontend Developer
-![Junior Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+# Hi there 👋, I'm Victor Mugisha
+## Junior Frontend Developer
 Passionate frontend JavaScript developer, eager to create innovative web solutions. Lifelong learner committed to continuous growth and collaboration.
 
 Skills: REACT / TYPESCRIPT / JS / HTML / CSS / TAILWIND CSS
@@ -16,8 +14,6 @@ Skills: REACT / TYPESCRIPT / JS / HTML / CSS / TAILWIND CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMugisha)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMugisha&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/VictorMugisha/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/VictorMugisha)  
 
