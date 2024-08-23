@@ -6,6 +6,7 @@ A frontend JavaScript developer, eager to create innovative web solutions. Lifel
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, TypeScript, HTML, CSS and Tailwind CSS
+- **Backend:** Node.js, Express, Mongoose, Cors, and MongoDB
 - **Tools:** Git, GitHub, VS Code, npm, Webpack
 
 ## 🌱 Currently Learning
