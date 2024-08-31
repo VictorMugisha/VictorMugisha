@@ -14,7 +14,7 @@ A frontend JavaScript developer, eager to create innovative web solutions. Lifel
 - State management with Redux and Zustand
 - Advanced Fetching in React using Tanstan Query
 - Form management with Zod and React Hook Form
-- Backend basics with Node.js
+- Building RESTAPI and JWT authentication
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorMugisha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-mugisha-shyaka-47b10b233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://victormugisha.netlify.app/)  
