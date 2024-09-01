@@ -5,7 +5,7 @@ I'm a junior developer with a passion for building web applications using JavaSc
 A frontend JavaScript developer, eager to create innovative web solutions. Lifelong learner committed to continuous growth and collaboration.
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS and Tailwind CSS
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS and Headless UI library
 - **Backend:** Node.js, Express, Mongoose, Cors, and MongoDB
 - **Tools:** Git, GitHub, VS Code, npm, Webpack
 
