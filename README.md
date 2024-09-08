@@ -1,20 +1,21 @@
-# Hi there 👋, I'm Victor Mugisha Shyaka
+# Hi there 👋, I'm **Victor Mugisha Shyaka**
 
 ## 🚀 About Me
-I'm a junior JavaScript developer with a passion for building web applications using modern tools, libraries and frameworks mostly React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
-A frontend JavaScript developer, eager to create innovative web solutions. Lifelong learner committed to continuous growth and collaboration.
+I'm a **junior JavaScript developer** passionate about crafting dynamic web applications using cutting-edge tools, libraries, and frameworks—especially **React**. I'm on a continuous journey of learning, constantly diving into new front-end technologies to sharpen my skills and contribute to innovative projects. 
+
+A **frontend JavaScript enthusiast**, eager to push the boundaries of what's possible on the web. I'm a lifelong learner, always committed to growth, collaboration, and making an impact through code. 💻✨
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS and Headless UI library
-- **Backend:** Node.js, Express, Mongoose, Cors, and MongoDB
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Headless UI
+- **Backend:** Node.js, Express, Mongoose, CORS, MongoDB
 - **Tools:** Git, GitHub, VS Code, npm, Webpack
 
 ## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux and Zustand
-- Advanced Fetching in React using Tanstan Query
-- Form management with Zod and React Hook Form
-- Building RESTAPI and JWT authentication
+- 🌟 Advanced React concepts
+- 🔄 State management with Redux and Zustand
+- ⚛️ Advanced Fetching in React using TanStack Query
+- 📝 Form management with Zod and React Hook Form
+- 🔐 Building REST APIs and implementing JWT authentication
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorMugisha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-mugisha-shyaka-47b10b233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://victormugisha.netlify.app/)  
