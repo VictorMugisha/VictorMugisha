@@ -14,7 +14,6 @@ A **frontend JavaScript enthusiast**, eager to push the boundaries of what's pos
 - 🌟 Advanced React concepts
 - 🔄 State management with Redux and Zustand
 - ⚛️ Advanced Fetching in React using TanStack Query
-- 📝 Form management with Zod and React Hook Form
 - 🔐 Building REST APIs and implementing JWT authentication
 
 
