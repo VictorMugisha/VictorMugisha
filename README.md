@@ -1,7 +1,7 @@
 # Hi there 👋, I'm **Victor Mugisha Shyaka ✨**
 
 ## 🚀 About Me
-I'm a **junior JavaScript developer** passionate about crafting dynamic web applications using cutting-edge tools, libraries, and frameworks—especially **React**. I'm on a continuous journey of learning, constantly diving into new front-end technologies to sharpen my skills and contribute to innovative projects. 
+I'm a **junior JavaScript developer** passionate about crafting dynamic web applications using cutting-edge tools, libraries, and frameworks—especially **React**. I'm on a continuous journey of learning, constantly diving into new front-end and backend technologies to sharpen my skills and contribute to innovative projects. 
 
 A **frontend JavaScript enthusiast**, eager to push the boundaries of what's possible on the web. I'm a lifelong learner, always committed to growth, collaboration, and making an impact through code. 💻✨
 
@@ -15,6 +15,8 @@ A **frontend JavaScript enthusiast**, eager to push the boundaries of what's pos
 - 🔄 State management with Redux and Zustand
 - ⚛️ Advanced Fetching in React using TanStack Query
 - 🔐 Building REST APIs and implementing JWT authentication
+- NestJS -- an opinionated Node.js framework
+- Docker containerization 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorMugisha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-mugisha-shyaka-47b10b233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://victormugisha.netlify.app/)  
