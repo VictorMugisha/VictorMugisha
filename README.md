@@ -10,13 +10,13 @@ A **frontend JavaScript enthusiast**, eager to push the boundaries of what's pos
 - **Backend:** Node.js, Express, Mongoose, CORS, MongoDB
 - **Tools:** Git, GitHub, VS Code, npm, Webpack
 
-## 🌱 Currently Learning
+ ## 🌱 Currently Learning
 - 🌟 Advanced React concepts
 - 🔄 State management with Redux and Zustand
 - ⚛️ Advanced Fetching in React using TanStack Query
 - 🔐 Building REST APIs and implementing JWT authentication
-- NestJS -- an opinionated Node.js framework
-- Docker containerization 
+- 🛠️ Learning Nest.js for building scalable server-side applications
+- 🐳 Exploring Docker for containerizing applications
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorMugisha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-mugisha-shyaka-47b10b233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://victormugisha.netlify.app/)  
