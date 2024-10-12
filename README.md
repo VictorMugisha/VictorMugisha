@@ -17,6 +17,7 @@ A **frontend JavaScript enthusiast**, eager to push the boundaries of what's pos
 - 🔐 Building REST APIs and implementing JWT authentication
 - 🛠️ Learning Nest.js for building scalable server-side applications
 - 🐳 Exploring Docker for containerizing applications
+- 🛠️ Currently working on a social media application 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorMugisha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-mugisha-shyaka-47b10b233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://victormugisha.netlify.app/)  
