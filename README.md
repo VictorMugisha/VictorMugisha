@@ -1,7 +1,7 @@
 # Hi there 👋, I'm **Victor Mugisha Shyaka ✨**
 
 ## 🚀 About Me
-I'm a **junior JavaScript developer** passionate about crafting dynamic web applications using cutting-edge tools, libraries, and frameworks—especially **React**. I'm on a continuous journey of learning, constantly diving into new front-end and backend technologies to sharpen my skills and contribute to innovative projects. 
+I'm a **junior JavaScript developer** passionate about crafting dynamic web applications using cutting-edge tools, libraries, and frameworks—especially **React**. I'm on a continuous journey of learning, constantly diving into new cutting edge front-end and backend technologies to sharpen my skills and contribute to innovative projects. 
 
 A **frontend JavaScript enthusiast**, eager to push the boundaries of what's possible on the web. I'm a lifelong learner, always committed to growth, collaboration, and making an impact through code. 💻✨
 
