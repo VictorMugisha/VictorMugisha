@@ -8,7 +8,7 @@ A **frontend JavaScript enthusiast**, eager to push the boundaries of what's pos
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Headless UI
 - **Backend:** Node.js, Express, Mongoose, CORS, MongoDB
-- **Tools:** Git, GitHub, VS Code, npm, Webpack
+- **Tools:** Git, GitHub, VS Code, npm, Webpack bundler 
 
  ## 🌱 Currently Learning
 - 🌟 Advanced React concepts
