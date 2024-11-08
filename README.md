@@ -58,10 +58,14 @@ A **frontend JavaScript enthusiast**, eager to push the boundaries of what's pos
 - 🔐 Building REST APIs and implementing JWT authentication
 - 🛠️ Learning Nest.js for building scalable server-side applications
 
-## 📊 GitHub Profile
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorMugisha) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/victor-mugisha-shyaka-47b10b233/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://victormugisha.netlify.app/)
+## 🔗 GitHub Profile
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VictorMugisha)
+
+## 🔗 LinkedIn Profile
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mugisha-shyaka-47b10b233/)
+
+## 🌐 Website Link
+[![Website](https://img.shields.io/badge/-Website-000000?logo=icloud&logoColor=white)](https://victormugisha.netlify.app/)
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMugisha)](https://github.com/anuraghazra/github-readme-stats)
