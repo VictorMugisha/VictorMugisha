@@ -6,9 +6,9 @@ I'm a **junior JavaScript developer** passionate about crafting dynamic web appl
 A **frontend JavaScript enthusiast**, eager to push the boundaries of what's possible on the web. I'm a lifelong learner, always committed to growth, collaboration, and making an impact through code. 💻✨
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Headless UI
-- **Backend:** Node.js, Express, Mongoose, CORS, MongoDB
-- **Tools:** Git, GitHub, VS Code, npm, Webpack bundler 
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Headless UI, Socket.io-client
+- **Backend:** Node.js, Express, Mongoose, CORS, MongoDB, NestJS, Mailtrap, Socket.io, MySQL, PostgresQL, TypeORM, Prisma
+- **Tools:** Git, GitHub, VS Code, npm, nvm, Webpack bundler, Docker Containerization
 
  ## 🌱 Currently Learning
 - 🌟 Advanced React concepts
