@@ -71,4 +71,3 @@ A **frontend enthusiast**, eager to push the boundaries of what's possible on th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMugisha)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMugisha&show_icons=true&count_private=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=VictorMugisha)  
