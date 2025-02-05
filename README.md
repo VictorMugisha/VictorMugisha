@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Victor Mugisha Shyaka ✨**
+# Hi there 👋, I'm **Victor Mugisha✨**
 
 ## 🚀 About Me
 I'm a **software developer** passionate about crafting dynamic web applications using cutting-edge tools, libraries, and frameworks—especially **React**. I'm on a continuous journey of learning, constantly diving deep into new front-end and backend technologies to sharpen my skills and contribute to innovative projects. 
